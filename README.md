@@ -3,6 +3,7 @@
 ## Backend Dependencies
 
 ```
+## on a virtual env with matgl installed
 pip install flask
 pip install ase ## for example
 pip install pymatgen
